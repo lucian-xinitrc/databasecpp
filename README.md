@@ -14,18 +14,18 @@ It uses custom file I/O handling and a minimal internal command engine to simula
 
 ## 📬 2. Example Usage
 
-### Create Database
-```
+**Create Database**
+```sql
 CREATE DATABASE <database_name>
 ```
 
-### Set Database
-```
+**Set Database**
+```sql
 SET <database_name>
 ```
 
-### Create Table
-```
+**Create Table**
+```sql
 CREATE TABLE <table_name>
 ```
 
